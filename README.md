@@ -1,4 +1,8 @@
-# Running the app
+# Ticket Based Task Management
+* This is a runnable code to implement a JIRA like task based ticketing system.
+* Please feel free to download and test it.
+
+# Steps to run the app
 
 * Simply do `yarn install` first and after that do `yarn start`.
 * The tasker app saves the ticket in local storage . 
